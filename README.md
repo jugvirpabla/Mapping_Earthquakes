@@ -8,4 +8,4 @@ To create a map using JavaScript that shows earthquake data for the last 7 days,
  - Software: VS Code, Google Chrome, Leaflet. Mapbox API
  
 ## Screenshot
-![Screenshot]
+![Screenshot](https://github.com/jugvirpabla/Mapping_Earthquakes/blob/master/screenshot.png)
